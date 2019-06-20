@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373740849518",
+    "firebase_url": "https://chateminent.firebaseio.com",
+    "project_id": "chateminent",
+    "storage_bucket": "chateminent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373740849518:android:1173db77a874b99d",
+        "android_client_info": {
+          "package_name": "com.kamel.chateminent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373740849518-80d4botebgrp25sur86itksrbiajcfeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamel.chateminent",
+            "certificate_hash": "6a4c22cc258240b47f37c7bcb829a5b992dd8f3c"
+          }
+        },
+        {
+          "client_id": "373740849518-84t2m55s863q52sm8s78r2atdpvidh89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIRans7WpVp4s7I4KEftn1ZexVMc9etM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373740849518-84t2m55s863q52sm8s78r2atdpvidh89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
